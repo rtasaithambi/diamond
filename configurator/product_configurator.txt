@@ -3,3 +3,4 @@ Configurator 1.0
 
 Configurator 1.1
 
+Configurator 2.0 from diamond
